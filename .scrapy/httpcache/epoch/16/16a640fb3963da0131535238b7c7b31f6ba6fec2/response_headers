@@ -1,0 +1,8 @@
+Vary: Accept-Encoding, User-Agent
+Date: Wed, 15 Aug 2018 11:42:25 GMT
+Server: nginx
+Accept-Ranges: bytes
+Via: 1.1 google
+Content-Encoding: gzip
+Cache-Control: public, max-age=120
+Content-Type: text/html; charset=UTF-8

@@ -1,0 +1,5 @@
+Accept-Encoding: gzip,deflate
+Accept-Language: en
+User-Agent: USER_AGENT = 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36'
+Referer: http://www.epochtimes.com/gb/ncid277_25.htm
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
